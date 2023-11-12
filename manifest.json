@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Fog and water surface are colored to identify biomes.",
+        "name": "Color_Coded_Biome_Fog_v0.0.1",
+        "uuid": "8b2d78ec-3ccf-4927-a71d-d0363f8f2819",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 30 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "13bdee99-ac70-44de-862d-3a3588880b9a",
+            "version": [0, 0, 1]
+        }
+    ]
+}
